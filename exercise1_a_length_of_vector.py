@@ -9,3 +9,4 @@ def compute_vector_length(vector):
 
 vector = np.array([[1, 2, 3, 4]])
 result = compute_vector_length([vector])
+print(result)
